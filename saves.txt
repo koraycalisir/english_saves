@@ -1,0 +1,7 @@
+0 -- Future -- gelecek
+1 -- Simple -- basit
+2 -- Welcome -- hoşgeldin
+3 -- You are welcome -- rica ederim
+4 -- Breakfast -- kahvaltı
+5 -- Dinner -- akşam yemeği
+6 -- Lunch -- öğle yemeği
