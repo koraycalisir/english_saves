@@ -5,3 +5,4 @@
 4 -- Breakfast -- kahvaltı
 5 -- Dinner -- akşam yemeği
 6 -- Lunch -- öğle yemeği
+7 -- Basic -- temel
